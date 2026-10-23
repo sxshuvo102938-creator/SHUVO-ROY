@@ -14,11 +14,6 @@ var telegram_channel_link = "telegram channel link";
 var telegram_group_link = "telegram group link";
 
 // =======================================================
-// YOUTUBE CHANNEL LINK
-// =======================================================
-var youtube_channel_link = "YouTube channel link";
-
-// =======================================================
 // NOTIFICATION TEXT
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
