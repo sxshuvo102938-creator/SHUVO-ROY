@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (SX TOP UP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "SX TOP UP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
