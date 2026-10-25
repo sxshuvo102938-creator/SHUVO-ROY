@@ -1,17 +1,17 @@
 // =======================================================
 // WEBSITE NAME (SX TOP UP)
 // =======================================================
-var website_name = "SX TOP UP";
+var website_name = "sx top up";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/sxtopup_1";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://t.me/sxtopup_1";
 
 // =======================================================
 // NOTIFICATION TEXT
