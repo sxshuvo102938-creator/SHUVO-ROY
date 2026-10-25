@@ -14,6 +14,11 @@ var telegram_channel_link = "https://t.me/sxtopup_1";
 var telegram_group_link = "https://t.me/sxtopup_1";
 
 // =======================================================
+// YOUTUBE CHANNEL LINK
+// =======================================================
+var youtube_channel_link = "https://youtube.com/@developer_shuvo_0?si=6jY_Glo9UhH7oYdC";
+
+// =======================================================
 // NOTIFICATION TEXT
 // =======================================================
 var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
